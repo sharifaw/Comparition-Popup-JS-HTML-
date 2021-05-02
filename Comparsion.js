@@ -7,6 +7,3 @@ if (value1 > value2 || value2>value1){
 else if (value1 == value2 && value1 != 0){
     alert ("The numbers are equal");
 }
-else{
-    alert(0);
-}
